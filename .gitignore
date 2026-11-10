@@ -1,0 +1,8 @@
+# Local archive backups written by install-hats.js (copies of the app's own files)
+backup/
+# Local Claude Code settings
+.claude/
+# Older one-off share page and bundle
+clawd-hats.html
+clawd-hats.zip
+clawd-hats-qr.png

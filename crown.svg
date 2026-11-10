@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Crown: pixel art (11x6 grid). Three points with pearl tips, jewelled band, shaded base. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 11 6" shape-rendering="crispEdges" width="11" height="6">
+  <g fill="#fff4c2">
+    <rect x="0" y="0" width="1" height="1"/>
+    <rect x="5" y="0" width="1" height="1"/>
+    <rect x="10" y="0" width="1" height="1"/>
+  </g>
+  <g fill="#f2b81f">
+    <rect x="0" y="1" width="2" height="1"/>
+    <rect x="4" y="1" width="3" height="1"/>
+    <rect x="9" y="1" width="2" height="1"/>
+    <rect x="0" y="2" width="11" height="1"/>
+    <rect x="0" y="3" width="11" height="1"/>
+  </g>
+  <g fill="#ffd85a">
+    <rect x="1" y="2" width="1" height="1"/>
+    <rect x="5" y="1" width="1" height="1"/>
+  </g>
+  <g fill="#c99112">
+    <rect x="10" y="1" width="1" height="1"/>
+    <rect x="10" y="2" width="1" height="1"/>
+    <rect x="10" y="3" width="1" height="1"/>
+  </g>
+  <rect x="2" y="3" width="1" height="1" fill="#c0392b"/>
+  <rect x="5" y="3" width="1" height="1" fill="#1e9e5a"/>
+  <rect x="8" y="3" width="1" height="1" fill="#c0392b"/>
+  <rect x="0" y="4" width="11" height="1" fill="#d39a14"/>
+  <rect x="0" y="5" width="11" height="1" fill="#a8740c"/>
+</svg>
